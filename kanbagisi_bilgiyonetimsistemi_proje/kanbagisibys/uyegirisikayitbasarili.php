@@ -59,7 +59,7 @@
           <td><input type="email" name="uyemail" placeholder="E-Posta adresinizi giriniz" required></td>
         </tr>
         <tr>
-          <td><input type="password" name="uyesifre" placeholder="Parolanızı oluşturunuz" required><br><br></td>
+          <td><input type="password" name="uyesifre" placeholder="Parolanızı giriniz" required><br><br></td>
         </tr>
         <tr>
           <td><button type="submit" name="" id="butongiris">Giriş Yap</button></td>
